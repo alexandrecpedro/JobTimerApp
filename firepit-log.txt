@@ -1,0 +1,37 @@
+Welcome to firepit v1.1.0!
+Doing JSON parses for version checks at /snapshot/firepit/vendor/node_modules/firebase-tools/package.json
+firebase-tools
+No existing firebase-tools install found.
+Installed ft@none and packaged ft@11.0.1
+Legacy firepit / firebase-tools detected, clearing it out...
+
+Checking for npm/bin/npm-cli install at /Users/alexandrepedro/.cache/firebase/tools/lib/node_modules/npm/bin/npm-cli
+Checking for npm/bin/npm-cli install at /Users/alexandrepedro/.cache/firebase/tools/node_modules/npm/bin/npm-cli
+Checking for npm/bin/npm-cli install at /snapshot/firepit/node_modules/npm/bin/npm-cli
+Found npm/bin/npm-cli install.
+Checking for npm/bin/npm-cli install at /Users/alexandrepedro/.cache/firebase/tools/lib/node_modules/npm/bin/npm-cli
+Checking for npm/bin/npm-cli install at /Users/alexandrepedro/.cache/firebase/tools/node_modules/npm/bin/npm-cli
+Checking for npm/bin/npm-cli install at /snapshot/firepit/node_modules/npm/bin/npm-cli
+Found npm/bin/npm-cli install.
+Runtime binaries created.
+/usr/local/bin/firebase
+/usr/local/bin/firebase,/snapshot/firepit/firepit.js,login
+Checking for npm/bin/npm-cli install at /Users/alexandrepedro/.cache/firebase/tools/lib/node_modules/npm/bin/npm-cli
+Checking for npm/bin/npm-cli install at /Users/alexandrepedro/.cache/firebase/tools/node_modules/npm/bin/npm-cli
+Checking for npm/bin/npm-cli install at /snapshot/firepit/node_modules/npm/bin/npm-cli
+Found npm/bin/npm-cli install.
+Checking for npm/bin/npm-cli install at /Users/alexandrepedro/.cache/firebase/tools/lib/node_modules/npm/bin/npm-cli
+Checking for npm/bin/npm-cli install at /Users/alexandrepedro/.cache/firebase/tools/node_modules/npm/bin/npm-cli
+Checking for npm/bin/npm-cli install at /snapshot/firepit/node_modules/npm/bin/npm-cli
+Found npm/bin/npm-cli install.
+Runtime binaries created.
+Checking for firebase-tools/lib/bin/firebase install at /Users/alexandrepedro/.cache/firebase/tools/lib/node_modules/firebase-tools/lib/bin/firebase
+Checking for firebase-tools/lib/bin/firebase install at /Users/alexandrepedro/.cache/firebase/tools/node_modules/firebase-tools/lib/bin/firebase
+Checking for firebase-tools/lib/bin/firebase install at /snapshot/firepit/node_modules/firebase-tools/lib/bin/firebase
+CLI not found! Invoking setup...
+Attempting to install to "/Users/alexandrepedro/.cache/firebase/tools"
+
+
+Using embedded cache for quick install...
+
+ShellJSInternalError: EPERM: operation not permitted, uv_cwd
