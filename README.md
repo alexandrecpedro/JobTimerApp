@@ -146,11 +146,10 @@ Este foi um aplicativo construído na semana do Dart Week, um evento proporciona
     <br>
     <li><strong>Aula 5</strong></li>
     <ol>
-        <li>Construir componente de apresentação do projeto</li>
-        <li>Implementar a atualização de projetos ao incluir um novo</li>
-        <li>Implementar o filtro de projetos</li>
-        <li>Implementar botão com loader</li>
-        <li>Criar tela de detalhe</li>
+        <li>Implementar tela de detalhe</li>
+        <li>Criar tela de nova task</li>
+        <li>Implementar tela de nova task</li>
+        <li>Atualizar detalhe do projeto com a task nova</li>
     </ol>
     <br>
 </ul>
